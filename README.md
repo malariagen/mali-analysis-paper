@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/malariagen/mali-analysis-paper/tree/gh-pages) branch hosts the contents of this directory at <https://malariagen.github.io/mali-analysis-paper/>.
-The permalink for this webpage version is <https://malariagen.github.io/mali-analysis-paper/v/5e738ed47e4d598c7ab9980498c2ff94e66eb2d5/>.
+The permalink for this webpage version is <https://malariagen.github.io/mali-analysis-paper/v/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://malariagen.github.io/mali-analysis-paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`5e738ed47e4d598c7ab9980498c2ff94e66eb2d5`](https://github.com/malariagen/mali-analysis-paper/commit/5e738ed47e4d598c7ab9980498c2ff94e66eb2d5).
+[`638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3`](https://github.com/malariagen/mali-analysis-paper/commit/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3).
