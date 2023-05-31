@@ -1,5 +1,5 @@
 ---
-title: Mali analysis paper (not the definite title)
+title: Mali analysis paper (not the final title)
 keywords:
 - markdown
 - publishing
@@ -16,15 +16,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Mali analysis paper (not the definite title)" />
-  <meta name="citation_title" content="Mali analysis paper (not the definite title)" />
-  <meta property="og:title" content="Mali analysis paper (not the definite title)" />
-  <meta property="twitter:title" content="Mali analysis paper (not the definite title)" />
+  <meta name="dc.title" content="Mali analysis paper (not the final title)" />
+  <meta name="citation_title" content="Mali analysis paper (not the final title)" />
+  <meta property="og:title" content="Mali analysis paper (not the final title)" />
+  <meta property="twitter:title" content="Mali analysis paper (not the final title)" />
   <meta name="dc.date" content="2023-05-31" />
   <meta name="citation_publication_date" content="2023-05-31" />
   <meta property="article:published_time" content="2023-05-31" />
-  <meta name="dc.modified" content="2023-05-31T10:47:07+00:00" />
-  <meta property="article:modified_time" content="2023-05-31T10:47:07+00:00" />
+  <meta name="dc.modified" content="2023-05-31T11:05:26+00:00" />
+  <meta property="article:modified_time" content="2023-05-31T11:05:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://malariagen.github.io/mali-analysis-paper/" />
   <meta name="citation_pdf_url" content="https://malariagen.github.io/mali-analysis-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://malariagen.github.io/mali-analysis-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://malariagen.github.io/mali-analysis-paper/v/5e738ed47e4d598c7ab9980498c2ff94e66eb2d5/" />
-  <meta name="manubot_html_url_versioned" content="https://malariagen.github.io/mali-analysis-paper/v/5e738ed47e4d598c7ab9980498c2ff94e66eb2d5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://malariagen.github.io/mali-analysis-paper/v/5e738ed47e4d598c7ab9980498c2ff94e66eb2d5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://malariagen.github.io/mali-analysis-paper/v/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3/" />
+  <meta name="manubot_html_url_versioned" content="https://malariagen.github.io/mali-analysis-paper/v/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://malariagen.github.io/mali-analysis-paper/v/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://malariagen.github.io/mali-analysis-paper/v/5e738ed47e4d598c7ab9980498c2ff94e66eb2d5/))
+([permalink](https://malariagen.github.io/mali-analysis-paper/v/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3/))
 was automatically generated
-from [malariagen/mali-analysis-paper@5e738ed](https://github.com/malariagen/mali-analysis-paper/tree/5e738ed47e4d598c7ab9980498c2ff94e66eb2d5)
+from [malariagen/mali-analysis-paper@638ec1f](https://github.com/malariagen/mali-analysis-paper/tree/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3)
 on May 31, 2023.
 </em></small>
 
