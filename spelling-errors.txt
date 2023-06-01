@@ -5,6 +5,7 @@ amet
 anim
 aute
 cillum
+CNVs
 commodo
 consectetur
 consequat
@@ -12,6 +13,7 @@ culpa
 cupidatat
 deserunt
 dolore
+Doubleton
 Duis
 eiusmod
 elit
@@ -19,7 +21,10 @@ enim
 esse
 Excepteur
 exercitation
+FST
 fugiat
+Haplotypes
+IBD
 incididunt
 ipsum
 irure
@@ -28,6 +33,7 @@ johndoe
 labore
 laboris
 laborum
+lookn
 Lorem
 magna
 mollit
@@ -43,6 +49,8 @@ quis
 reprehenderit
 sed
 sint
+SNP
+SNPs
 sunt
 tempor
 ullamco

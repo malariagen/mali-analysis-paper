@@ -1,11 +1,11 @@
 ---
-title: Mali analysis paper (not the final title)
+title: The quest for population structure in Anopheles Gambiae sl in Mali
 keywords:
 - markdown
 - publishing
 - manubot
 lang: en-US
-date-meta: '2023-05-31'
+date-meta: '2023-06-01'
 author-meta:
 - John Doe
 - Jane Roe
@@ -16,15 +16,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Mali analysis paper (not the final title)" />
-  <meta name="citation_title" content="Mali analysis paper (not the final title)" />
-  <meta property="og:title" content="Mali analysis paper (not the final title)" />
-  <meta property="twitter:title" content="Mali analysis paper (not the final title)" />
-  <meta name="dc.date" content="2023-05-31" />
-  <meta name="citation_publication_date" content="2023-05-31" />
-  <meta property="article:published_time" content="2023-05-31" />
-  <meta name="dc.modified" content="2023-05-31T11:05:26+00:00" />
-  <meta property="article:modified_time" content="2023-05-31T11:05:26+00:00" />
+  <meta name="dc.title" content="The quest for population structure in Anopheles Gambiae sl in Mali" />
+  <meta name="citation_title" content="The quest for population structure in Anopheles Gambiae sl in Mali" />
+  <meta property="og:title" content="The quest for population structure in Anopheles Gambiae sl in Mali" />
+  <meta property="twitter:title" content="The quest for population structure in Anopheles Gambiae sl in Mali" />
+  <meta name="dc.date" content="2023-06-01" />
+  <meta name="citation_publication_date" content="2023-06-01" />
+  <meta property="article:published_time" content="2023-06-01" />
+  <meta name="dc.modified" content="2023-06-01T08:09:53+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T08:09:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://malariagen.github.io/mali-analysis-paper/" />
   <meta name="citation_pdf_url" content="https://malariagen.github.io/mali-analysis-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://malariagen.github.io/mali-analysis-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://malariagen.github.io/mali-analysis-paper/v/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3/" />
-  <meta name="manubot_html_url_versioned" content="https://malariagen.github.io/mali-analysis-paper/v/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://malariagen.github.io/mali-analysis-paper/v/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://malariagen.github.io/mali-analysis-paper/v/39eae54265a852c366f8256f78af974f647bac49/" />
+  <meta name="manubot_html_url_versioned" content="https://malariagen.github.io/mali-analysis-paper/v/39eae54265a852c366f8256f78af974f647bac49/" />
+  <meta name="manubot_pdf_url_versioned" content="https://malariagen.github.io/mali-analysis-paper/v/39eae54265a852c366f8256f78af974f647bac49/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,15 +65,6 @@ manubot-clear-requests-cache: false
 
 
 
-
-
-<small><em>
-This manuscript
-([permalink](https://malariagen.github.io/mali-analysis-paper/v/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3/))
-was automatically generated
-from [malariagen/mali-analysis-paper@638ec1f](https://github.com/malariagen/mali-analysis-paper/tree/638ec1f9ba738f88d4fe9cf3b51a5b910a6f48c3)
-on May 31, 2023.
-</em></small>
 
 
 
@@ -122,6 +113,71 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 
 
+
+# Introduction
+
+- Malaria is not good
+- Population structure affects behaviour, IR profile -> risk and response
+- Why Mali for this study
+
+# Methods
+
+## Collection and sequencing
+
+## Diversity statistics
+
+## SNPs
+
+## CNVs
+
+## Haplotypes
+
+## Locator
+
+## Doubleton-sharing
+
+## IBD
+
+# Results
+
+## Diversity statistics
+
+- Diversity statistics different between taxa?
+- Diversity statistics very similar inside a taxa
+- No clear geographical or temporal effect
+- Balloon mosquitoes lookn fairly typical
+- Some small differences maybe due to different sample sizes
+- Very low FST between populations of the same taxon
+- Slight indication of population structure when population assignment randomized
+
+## SNPs
+
+- IR profiles are very similar for every population of the same taxon and some are different between taxa?
+- Some temporal trends observed elsewhere (para) present here as well but somewhat muddled in some locations
+- We have not found any location specific SNP
+
+## CNVs
+
+- I am still unclear on the final result of that analysis
+
+## Haplotypes
+
+- IR haplotypes are highly shared between locations and sometimes taxa?
+
+## Locator
+
+- Pretty good at high level (including on new data)
+- Does not work at the required definition
+
+## Doubleton-sharing
+
+- Didn't find a geographical or temporal correlation ?
+
+## IBD
+
+- Still to be seen
+
+# Discussion
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
