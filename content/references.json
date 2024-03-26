@@ -1,0 +1,79 @@
+[
+{
+  "id": "Mwima23",
+  "type": "journal article",
+  "URL": "https://doi.org/10.1186/s12936-023-04775-0",
+  "title": "Potential persistence mechanisms of the major Anopheles gambiae species complex malaria vectors in sub-Saharan Africa: a narrative review",
+  "journal": "Malaria Journal",
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Mwima",
+      "given": "Rita"  
+    },
+    {
+      "family": "Hui",
+      "given": "Tin-Yu"  
+    },  
+    {
+      "family": "Nanteza",
+      "given": "Ann"  
+    }, 
+    {
+      "family": "Burt",
+      "given": "Austin"  
+    }, 
+    {
+      "family": "Kayondo",
+      "given": "Jonathan"  
+    }, 
+  ]
+},
+    Mwima, R., Hui, TY.J., Nanteza, A. et al. Potential persistence mechanisms of the major Anopheles gambiae species complex malaria vectors in sub-Saharan Africa: a narrative review. Malar J 22, 336 (2023). 
+    
+{
+  "id": "SCA2022",
+  "type": "report",
+  "URL": "https://library.wmo.int/records/item/67761-state-of-the-climate-in-africa-2022?offset=2",
+  "title": "State of the Climate in Africa 2022",
+  "container-title": "",
+  "issued": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "World Meteorological Organisation"
+    }
+  ]
+},
+
+{
+  "id": "WMR2023",
+  "type": "report",
+  "URL": "https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2023",
+  "title": "World Malaria Report 2023",
+  "container-title": "",
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "World Health Organisation"
+    }
+  ]
+}
+]
