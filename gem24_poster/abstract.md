@@ -4,7 +4,7 @@ Authors: Jon Brenas, Tovi Lehmann, Alistair Miles, Adama Dao, others?
 
 Despite climactic conditions during most of the year that are not conducive to _An. gambiae s.l._ survival and development, malaria is still endemic in the Sahel region of Africa.
 Many different theories (local refugia, long-distance migration, aestivatioon, ...) have been put forward to explain how the mosquito population can rebuild so quickly at the beginning of the rainy season with various degrees of evidence that they take place.
-In particular, several _An. coluzzii_ (and 1 _An. gambiae s.s._ were collected at high altitude in Mali using sticky tape attached to a balloon.
+In particular, several _An. coluzzii_ (and 1 _An. gambiae s.s. _) were collected at high altitude in Mali using sticky tape attached to a balloon.
 We are interested in how these mosquitoes compare to local and more distant populations in order to further our understanding of whether these mosquitoes show signs of interaction and reproduction with these populations.
 In addition to usual genomic metrics, such as F<sub>st</sub>, genetic distance, …, we use some more involved methods looking at haplotype clusterings, identity by descent estimates and we use Locator, an open-source artificial model used to infer where samples were collected from their genotypes.
 We also modified Locator slightly to make it a classifier in order to try improving its decision power.
