@@ -1,14 +1,19 @@
-Title: A quick overview of what a balloon mosquito looks like (not the final title)
+Title:A genomic analysis of An. coluzzii caught by high-altitude balloon
 
-Authors: Jon Brenas, Tovi Lehmann, Alistair Miles, Adama Dao, others?
+Authors: Jon Brenas, Tovi Lehmann, Adama Dao, Alistair Miles
 
 Despite climactic conditions during most of the year that are not conducive to _An. gambiae s.l._ survival and development, malaria is still endemic in the Sahel region of Africa.
-Many different theories (local refugia, long-distance migration, aestivatioon, ...) have been put forward to explain how the mosquito population can rebuild so quickly at the beginning of the rainy season with various degrees of evidence that they take place.
-In particular, several _An. coluzzii_ (and 1 _An. gambiae s.s. _) were collected at high altitude in Mali using sticky tape attached to a balloon.
-We are interested in how these mosquitoes compare to local and more distant populations in order to further our understanding of whether these mosquitoes show signs of interaction and reproduction with these populations.
-In addition to usual genomic metrics, such as F<sub>st</sub>, genetic distance, …, we use some more involved methods looking at haplotype clusterings, identity by descent estimates and we use Locator, an open-source artificial model used to infer where samples were collected from their genotypes.
-We also modified Locator slightly to make it a classifier in order to try improving its decision power.
-We focused in more details on known insecticide resistance genes, be it target-site resistance genes such as VGSC, metabolic resistance genes such as several CYP450 clusters or genes that are involved in more than one process, such as Ace1.
-In general, we conclude that the balloon _An. coluzzii_ are significantly different from mosquitoes coming from some distant places and/or times, in particular from mosquitoes from south-western Mali, from mosquitoes collected in neighboring locations but before insecticide resistance started to become prevalent and from mosquitoes from coastal Cote d'Ivoire.
-On the other hand, we cannot clearly distinguish the one _An. gambiae s.s._ sample from samples coming from even quite distant locations (such as northern Cameroon) and the _An. coluzzii_ samples from samples collected in northern Cote d'Ivoire or Burkina Faso in a similar time frame.
-This is not enough to confirm or refute the theory of long-distance migration for either taxon.
+Many different theories (local refugia, long-distance migration, aestivation, ...) have been put forward to explain how the mosquito population can rebuild so quickly at the beginning of the rainy season with various degrees of evidence that they take place.
+In particular, several mosquitoes were captured at high-altitude which could be evidence that they are able to use prevailing winds to migrate long-distance, as several other insects are known to do.
+Here we sequenced and analysed the genomes of 22 _An. coluzzii_ collected at high altitude.
+We then compared the genomes of these mosquitoes to the genomes of samples from Mali, Burkina Faso and Cote d'Ivoire, collected at ground level.
+We use genome-wide SNP, CNV and haplotype data and a variety of statistical and machine-learning methods to attempt to identify the most probable geographical origin for the high-altitude mosquitoes.
+This includes the deep-learning model Locator that we modified to better suit the purpose of our analyses.
+We find that, in general, none of the methods was able to detect any population structure within An. coluzzii in the Sahel, and therefore we cannot conclusively assign a specific origin for these mosquitoes.
+There is a clear distinction, however, between coastal and inland _An. coluzzii_ populations allowing us to rule out coastal populations as a potential source for the high-altitude mosquitoes.
+We also analysed the haplotypes and alleles at known insecticide resistance genes where spatial patterns of allele- and haplotype sharing may be more restricted due to the recent origin of the evolutionary pressure.
+We find that high-altitude mosquitoes carry mutations that confer target-side resistance to pyrethroids (VGSC) and resistance to dieldrin (rdl), some CYP-mediated resistance to pyrethroids but not the known resistance allele to carbamates (ACE1-G280S).
+All of these alleles were also found in mosquitoes from Mali and Burkina Faso collected recently at ground level.
+Further analysis of genetic backgrounds confirm that they are widely shared among inland _An. coluzzii_ populations in West Africa. 
+Taken together, these results show that the high-altitude mosquitoes were genetcially similar to ground-level mosquitoes throughout the West African Sahel.
+It thus remains possible that long-distance wind-assisted migration occurs within the Sahelian region but the lack of genetic structure does not allow us to confidently identify the range of migration.
