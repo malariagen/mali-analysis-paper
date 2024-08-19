@@ -1,0 +1,309 @@
+[
+    {
+  "id": "Charlwood00",
+  "type": "journal article",
+  "URL": "https://doi.org/10.4269/ajtmh.2000.62.726",
+  "title": "Dry season refugia of malaria‐transmitting mosquitoes in a dry savannah zone of east Africa",
+  "journal": "American Journal of Tropical Medicine and Hygiene",
+  "issued": {
+    "date-parts": [
+      [
+        2000
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Charlwood",
+      "given": "J. D."  
+    },
+    {
+      "family": "Vij",
+      "given": "R."  
+    },  
+    {
+      "family": "Billingsley",
+      "given": "P. F."  
+    }
+  ]
+},
+   {
+  "id": "Huestis19",
+  "type": "journal article",
+  "URL": "https://doi.org/10.1038/s41586-019-1622-4",
+  "title": "Windborne long‐distance migration of malaria mosquitoes in the Sahel",
+  "journal": "Nature",
+  "issued": {
+    "date-parts": [
+      [
+        2019
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Huestis",
+      "given": "Diana. L."  
+    },
+    {
+      "family": "Dao",
+      "given": "Adama"  
+    },  
+    {
+      "family": "Diallo",
+      "given": "Moussa"  
+    }, 
+    {
+      "family": "Sanogo",
+      "given": "Zana L."  
+    }, 
+    {
+      "family": "Samake",
+      "given": "Djibril"  
+    }, 
+    {
+      "family": "Yaro",
+      "given": "Alpha S."  
+    }, 
+    {
+      "family": "Ousman",
+      "given": "Yossi"  
+    }, 
+    {
+      "family": "Linton",
+      "given": "Yvonne-Marie"  
+    }, 
+    {
+      "family": "Krishna",
+      "given": "Asha"  
+    }, 
+    {
+      "family": "Veru",
+      "given": "Laura"  
+    }, 
+    {
+      "family": "Krajacich",
+      "given": "Benjamin J."  
+    }, 
+    {
+      "family": "Faiman",
+      "given": "Roy"  
+    }, 
+    {
+      "family": "Florio",
+      "given": "Jenna"  
+    }, 
+    {
+      "family": "Chapman",
+      "given": "Jason W."  
+    }, 
+    {
+      "family": "Reynolds",
+      "given": "Don R."  
+    }, 
+    {
+      "family": "Weetman",
+      "given": "David"  
+    }, 
+    {
+      "family": "Mitchell",
+      "given": "Reed"  
+    }, 
+    {
+      "family": "Donnelly",
+      "given": "Martin J."  
+    }, 
+    {
+      "family": "Talamas",
+      "given": "Elijah"  
+    }, 
+    {
+      "family": "Chamorro",
+      "given": "Lourdes"  
+    }, 
+    {
+      "family": "Strobach",
+      "given": "Ehud"  
+    }, 
+    {
+      "family": "Lehmann",
+      "given": "Tovi"  
+    }
+  ]
+}, 
+    {
+  "id": "Lehmann10",
+  "type": "journal article",
+  "URL": "https://doi.org/10.4269/ajtmh.2010.09-0779",
+  "title": "Aestivation of the African malaria mosquito, Anopheles gambiae in the Sahel",
+  "journal": "American Journal of Tropical Medicine and Hygiene",
+  "issued": {
+    "date-parts": [
+      [
+        2010
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Lehmann",
+      "given": "Tovi"  
+    },
+    {
+      "family": "Dao",
+      "given": "Adama"  
+    },  
+    {
+      "family": "Yaro",
+      "given": "Alpha Seydou"  
+    }, 
+    {
+      "family": "Adamou",
+      "given": "Abdoulaye"  
+    }, 
+    {
+      "family": "Kassogue",
+      "given": "Yaya"  
+    }, 
+    {
+      "family": "Diallo",
+      "given": "Moussa"  
+    }, 
+    {
+      "family": "Sekou",
+      "given": "Traore"  
+    }, 
+    {
+      "family": "Coscaron-Arias",
+      "given": "Cecilia"  
+    }
+  ]
+},
+    {
+  "id": "Lehmann14",
+  "type": "journal article",
+  "URL": "https://doi.org/10.1603/me13094",
+  "title": "Seasonal variation in spatial distributions of Anopheles gambiae in a Sahelian village: evidence for aestivation",
+  "journal": "Journal of Medical Entomology",
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Lehmann",
+      "given": "Tovi"  
+    },
+    {
+      "family": "Dao",
+      "given": "Adama"  
+    },  
+    {
+      "family": "Yaro",
+      "given": "Alpha Seydou"  
+    }, 
+    {
+      "family": "Diallo",
+      "given": "Moussa"  
+    }, 
+    {
+      "family": "Timbine",
+      "given": "S."  
+    }, 
+    {
+      "family": "Huestis",
+      "given": "Diana L."  
+    }, 
+    {
+      "family": "Adamou",
+      "given": "Abdoulaye"  
+    }, 
+    {
+      "family": "Kassogue",
+      "given": "Yaya"  
+    }, 
+    {
+      "family": "Traore",
+      "given": "A. I."  
+    }
+  ]
+},    
+{
+  "id": "Mwima23",
+  "type": "journal article",
+  "URL": "https://doi.org/10.1186/s12936-023-04775-0",
+  "title": "Potential persistence mechanisms of the major Anopheles gambiae species complex malaria vectors in sub-Saharan Africa: a narrative review",
+  "journal": "Malaria Journal",
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Mwima",
+      "given": "Rita"  
+    },
+    {
+      "family": "Hui",
+      "given": "Tin-Yu"  
+    },  
+    {
+      "family": "Nanteza",
+      "given": "Ann"  
+    }, 
+    {
+      "family": "Burt",
+      "given": "Austin"  
+    }, 
+    {
+      "family": "Kayondo",
+      "given": "Jonathan"  
+    }
+  ]
+},
+    
+{
+  "id": "SCA2022",
+  "type": "report",
+  "URL": "https://library.wmo.int/records/item/67761-state-of-the-climate-in-africa-2022?offset=2",
+  "title": "State of the Climate in Africa 2022",
+  "container-title": "",
+  "issued": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "World Meteorological Organisation"
+    }
+  ]
+}, 
+{
+  "id": "WMR2023",
+  "type": "report",
+  "URL": "https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2023",
+  "title": "World Malaria Report 2023",
+  "container-title": "",
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "World Health Organisation"
+    }
+  ]
+}
+]
